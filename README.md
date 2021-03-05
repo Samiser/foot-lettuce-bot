@@ -2,6 +2,6 @@
 
 bot to shitpost based on the number 15: foot lettuce meme
 
-concieved by [@ICRice101](https://twitter.com/IBRice101)
+concieved by [@IBRice101](https://twitter.com/IBRice101)
 
 please forgive us

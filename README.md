@@ -1,6 +1,6 @@
 # number 15 bot
 
-bot to shitpost based on the number 15: foot lettuce meme
+bot to shitpost based on the `number 15: burger king foot lettuce` meme
 
 concieved by [@IBRice101](https://twitter.com/IBRice101)
 

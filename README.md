@@ -1,4 +1,4 @@
-# number 15 bot
+# foot lettuce bot
 
 bot to shitpost based on the `number 15: burger king foot lettuce` meme
 
